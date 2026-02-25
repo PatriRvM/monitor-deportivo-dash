@@ -4,4 +4,5 @@ pandas
 numpy
 scipy
 plotly
+gunicorn
 sqlalchemy
